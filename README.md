@@ -17,3 +17,5 @@ Sinta-se a vontade para entrar em contato 😄
 <br><br>
 <a href="https://www.linkedin.com/in/ana-rachel-melo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/AnaRachel1/AnaRachel1/blob/output/github-contribution-grid-snake.svg)
